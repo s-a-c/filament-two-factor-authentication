@@ -2,6 +2,14 @@
 
 All notable changes to `filament-two-factor-authentication` will be documented in this file.
 
+## 3.0.9 - 2025-10-13
+
+### What's Changed
+
+* Bump stefanzweifel/git-auto-commit-action from 6 to 7 by @dependabot[bot] in https://github.com/stephenjude/filament-two-factor-authentication/pull/91
+
+**Full Changelog**: https://github.com/stephenjude/filament-two-factor-authentication/compare/3.0.8...3.0.9
+
 ## 3.0.8 - 2025-09-20
 
 ### What's Changed

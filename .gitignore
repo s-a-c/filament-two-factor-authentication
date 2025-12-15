@@ -1,5 +1,6 @@
 .DS_Store
 .idea
+.jj
 .phpunit.result.cache
 .phpunit.cache
 .vscode
